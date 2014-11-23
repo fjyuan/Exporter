@@ -1,7 +1,7 @@
 Exporter
 ========
 
-Export resources as assetbundles with a VersionManager based on unity3d project.
+Export resources as assetbundles with a VersionManager for unity3d project.
 
 Features:
  
