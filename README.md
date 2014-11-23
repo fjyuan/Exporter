@@ -5,13 +5,13 @@ Export resources as assetbundles with a VersionManager based on unity3d project.
 
 Features:
  
-* Export resources in batch mode with suffix name and which from the resources path under the project.
-* Only export the resources of the new or changed.
+* Export resources in batch mode with suffix name, that which from the resources path under the project, and only export the resources of the new or changed.
 * Filter all of the updated files by VersionManager.
 
 Sources:
 
 * Assets/Edtior/Exporter.cs 
+* Assets/ScriptsAssetManagerExample.cs
 * Assets/Script/AssetManager.cs
 * Assets/Script/AssetBundleManager.cs
 * Assets/Scripts/Helpers/Logger.cs
